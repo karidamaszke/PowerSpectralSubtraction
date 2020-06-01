@@ -1,2 +1,2 @@
 # PowerSpectralSubtraction
-Implementation of power spectral subtraction method to denoised music signal
+Implementation of Power Spectral Subtraction method to denoise music signal
